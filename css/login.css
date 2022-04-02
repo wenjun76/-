@@ -1,0 +1,91 @@
+* {
+	margin: 0 0;
+	padding: 0 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul li {
+	list-style: none;
+}
+
+
+
+
+
+
+
+
+
+.headr {
+	width: 100%;
+	background-color: #eee;
+}
+
+.db {
+	width: 1400px;
+	height: 80px;
+	margin: 0 auto;
+	text-align: center;
+	overflow: hidden;
+}
+
+.db img {
+	float: left;
+	margin-top: 10px;
+}
+
+.db span {
+	float: left;
+	line-height: 80px;
+	margin-left: 10px;
+	display: inline-block;
+}
+
+.db a {
+	float: right;
+	line-height: 80px;
+	margin-right: 40px;
+}
+
+.sousuo {
+	margin: 25px auto;
+	display: inline-block;
+}
+
+.souwen {
+	border: 3px solid red;
+	height:25px;
+	line-height: 25px;
+}
+
+.soubtn {
+	height:31px;
+	line-height: 31px;
+	color: red;
+	cursor: pointer;
+	background-color: #fff;
+	border: 1px solid #000;
+	width: 80px;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nr {
+	width: 300px;
+	margin: 50px auto;
+}
+
